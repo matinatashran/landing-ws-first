@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Potta One", cursive;
+  src: url("../assets/font/PottaOne-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  src: url("../assets/font/Montserrat-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  src: url("../assets/font/Montserrat-ExtraBold.ttf");
+}
